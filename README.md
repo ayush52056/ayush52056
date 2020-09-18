@@ -20,6 +20,13 @@
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ayush-singh-601951188/)
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/ayuarts_01/]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ayuarts_01/)
 
 <br>
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Github Stats" src="https://github-readme-stats.ayush52056.vercel.app/api?username=ayush52056&show_icons=true&hide_border=true" />
+
+</details>
