@@ -23,15 +23,15 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ayuarts_01/)
 
 <br>
+<br>
 <details>
 
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true" />
+  <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayush52056&count_private=true" />
   
   
 </details>
  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 
