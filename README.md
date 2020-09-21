@@ -14,7 +14,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Resources to learn "Data Structure and Algorithms"](https://portfolioayush.herokuapp.com/blog/best-resources-data-structure-and-algorithm/)
+- [Best Resources to learn "Data Structure and Algorithms"](bit.ly/33FBkDT)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools:
