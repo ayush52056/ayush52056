@@ -14,7 +14,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Resources to learn "Data Structure and Algorithms"](bit.ly/33FBkDT)
+- [Best Resources to learn "Data Structure and Algorithms"](https://bit.ly/33FBkDT)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools:
