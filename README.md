@@ -15,6 +15,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Best Resources to learn "Data Structure and Algorithms"](https://bit.ly/33FBkDT)
+- [Important Sorting Algorithms for Interviews](https://bit.ly/3iBDQk6)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools:
