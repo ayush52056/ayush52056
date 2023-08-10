@@ -1,9 +1,4 @@
-### Hi there, I'm Ayush Singh - [Know more](https://portfolioayush.herokuapp.com/)👋
-
-
-- I am a fourth year student currently studying Bachelor of Technology (B.Tech) with Information Technology stream at the IMS Engineering College (AKTU).
-
-- I have a passion for learning and developing new skills related to programming and computer science.
+### Hi there, I'm Ayush Singh - [Know more](http://ayush52056.pythonanywhere.com/)👋
 
 - I enjoy learning new skills and I spend a lot of my free time coding my own side fun projects.
 
@@ -14,8 +9,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Resources to learn "Data Structure and Algorithms"](https://bit.ly/33FBkDT)
-- [Important Sorting Algorithms for Interviews](https://bit.ly/3iBDQk6)
+- [Best Resources to learn "Data Structure and Algorithms"](http://ayush52056.pythonanywhere.com/blog/best-resources-data-structure-and-algorithms/)
+- [Important Sorting Algorithms for Interviews](http://ayush52056.pythonanywhere.com/blog/important-sorting-algorithms-interviews/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools:
